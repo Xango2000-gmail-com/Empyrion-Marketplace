@@ -1,0 +1,8 @@
+F:\Repos\Marketplace\CreditSaver\bin\Debug\CreditSaver.dll
+F:\Repos\Marketplace\CreditSaver\bin\Debug\CreditSaver.pdb
+F:\Repos\Marketplace\CreditSaver\obj\Debug\CreditSaver.csprojAssemblyReference.cache
+F:\Repos\Marketplace\CreditSaver\obj\Debug\CreditSaver.csproj.CoreCompileInputs.cache
+F:\Repos\Marketplace\CreditSaver\obj\Debug\CreditSaver.dll
+F:\Repos\Marketplace\CreditSaver\obj\Debug\CreditSaver.pdb
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\CreditSaver\CreditSaver.dll
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\CreditSaver\CreditSaver.pdb
